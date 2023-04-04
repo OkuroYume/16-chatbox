@@ -1,7 +1,7 @@
 body {
-  max-width: 320px;
+  max-width: 340px;
   margin: auto;
-  background: #ff85ce;
+  background-color: #f6c0d5;
   font-family: 'DotGothic16', sans-serif;
   font-size: 13px;
   font-weight:bolder;
@@ -63,16 +63,17 @@ img {
 
 h1 {
   margin: 0;
-  background: #c63e8f;
+  background: #ea5e9e;
   width: 100%;
   position: sticky;
-  top: 0;
   text-align: center;
   color: white;
+  font-size: 25px;
+  
 }
 
 .chat-form {
-  background: #c63e8f;
+  background: #ea5e9e;
   width: 100%;
   padding: 5px;
   box-sizing: border-box;
@@ -83,7 +84,7 @@ h1 {
 }
 
 hr {
-  color: #c63e8f;
+  color: #ea5e9e;
   width: 300px;
 
 }
