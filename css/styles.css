@@ -2,6 +2,9 @@ body {
   max-width: 320px;
   margin: auto;
   background: #ff85ce;
+  font-family: 'DotGothic16', sans-serif;
+  font-size: 13px;
+  font-weight:bolder;
 }
 
 img {
@@ -22,7 +25,7 @@ img {
 
 .message-box {
   margin-bottom: 10px;
-  width: 75%;
+  width: 65%;
   margin: 0 25px 25px;
 }
 
