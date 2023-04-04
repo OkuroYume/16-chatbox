@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: #ce659e;
 }
 
 img {
@@ -39,7 +39,7 @@ img {
 }
 
 .message-box-regina .message-content {
-  background: #33f;
+  background: white;
   padding: 10px;
 }
 
@@ -48,12 +48,12 @@ img {
   text-align: right;
 }
 
-.message-karen .message-content {
-  background: green;
+.message-box-karen .message-content {
+  background: white;
 }
 
 .message-box-cady .message-content {
-  background: red;
+  background: white;
 }
 
 h1 {
@@ -74,4 +74,9 @@ h1 {
   bottom: 0;
   display: flex;
   justify-content: space-between;
+}
+
+hr {
+  color: pink;
+  width: 300px;
 }
