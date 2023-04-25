@@ -1,6 +1,5 @@
 body {
   max-width: 320px;
-  margin: auto;
   background-color: #f6c0d5;
   font-family: 'DotGothic16', sans-serif;
   font-size: 13px;
@@ -35,7 +34,6 @@ img {
   margin-bottom: 0;
   border: 1.5px solid black;
 }
-
 
 .message-author {
   margin: 5px 0 0 0;
